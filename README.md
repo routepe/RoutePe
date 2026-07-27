@@ -3,8 +3,8 @@ Hi there 👋
 
 🌱 I’m scaling high-throughput APIs using Laravel 12, React, and Flutter.
 
-👯 I’m looking to collaborate on supply chain automation and EV telemetry.
+👯 I’m looking to collaborate on supply chain automation and telemetry for Predictive Maintenance of Vehicles.
 
-💬 Ask me about fleet management, workshop automation, and e-mobility.
+💬 Ask me about personal vehicle maintenance, fleet management, workshop automation, and e-mobility.
 
 📫 How to reach me: Visit https://www.routepe.com/
